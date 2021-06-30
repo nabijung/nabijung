@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabijung
 - 👀 I’m interested in the harmony of design and structure
 - 🌱 I’m currently learning Swift 
-- 💞️ I’m looking to collaborate on an app that excites it's users and builders
+- 💞️ I’m looking to collaborate on an app that excites its users and builders
 - 📫 How to reach me: nabijung@icloud.com
 
 <!---
